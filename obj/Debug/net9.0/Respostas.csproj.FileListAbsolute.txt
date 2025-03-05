@@ -1,0 +1,14 @@
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\bin\Debug\net9.0\Respostas.exe
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\bin\Debug\net9.0\Respostas.deps.json
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\bin\Debug\net9.0\Respostas.runtimeconfig.json
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\bin\Debug\net9.0\Respostas.dll
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\bin\Debug\net9.0\Respostas.pdb
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\obj\Debug\net9.0\Respostas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\obj\Debug\net9.0\Respostas.AssemblyInfoInputs.cache
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\obj\Debug\net9.0\Respostas.AssemblyInfo.cs
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\obj\Debug\net9.0\Respostas.csproj.CoreCompileInputs.cache
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\obj\Debug\net9.0\Respostas.dll
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\obj\Debug\net9.0\refint\Respostas.dll
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\obj\Debug\net9.0\Respostas.pdb
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\obj\Debug\net9.0\Respostas.genruntimeconfig.cache
+C:\Users\gabiv\OneDrive\Documentos\2DS\DS\DS\Aula01Variaveis\Respostas\obj\Debug\net9.0\ref\Respostas.dll
